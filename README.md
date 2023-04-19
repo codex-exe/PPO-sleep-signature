@@ -37,15 +37,15 @@ the algorithm needs to explore the sleep schedule space and generate new
 data in order to learn the optimal sleep schedule.
 
 ### Contributers:
-- [Alabhya Sharma]
-- [Ritika Lakshminarayanan]
+- Alabhya Sharma
+- Ritika Lakshminarayanan
 
 Colab link: https://colab.research.google.com/drive/1933n5ZR5EPRYC4kyUX1cXXUpVtxqxqFN?usp=sharing
 
 
 ### Architecture:
-[![architecture](https://github.com/codex-exe/PPO-sleep-signature/blob/main/Results/architecture.png)
+![architecture](https://github.com/codex-exe/PPO-sleep-signature/blob/main/Results/architecture.png)
 
 ### Result Graphs:
-[![result1](https://github.com/codex-exe/PPO-sleep-signature/blob/main/Results/User12%2C%20reward%20space.png)
-[![result2](https://github.com/codex-exe/PPO-sleep-signature/blob/main/Results/user12_optimal.png)
+![result1](https://github.com/codex-exe/PPO-sleep-signature/blob/main/Results/User12%2C%20reward%20space.png)
+![result2](https://github.com/codex-exe/PPO-sleep-signature/blob/main/Results/user12_optimal.png)
