@@ -40,8 +40,8 @@ data in order to learn the optimal sleep schedule.
 - Alabhya Sharma
 - Ritika Lakshminarayanan
 
-Colab link: https://colab.research.google.com/drive/1933n5ZR5EPRYC4kyUX1cXXUpVtxqxqFN?usp=sharing
-
+**Colab link:** https://colab.research.google.com/drive/1933n5ZR5EPRYC4kyUX1cXXUpVtxqxqFN?usp=sharing
+**Link to the original dataset: ** https://physionet.org/content/mmash/1.0.0/
 
 ### Architecture:
 ![architecture](https://github.com/codex-exe/PPO-sleep-signature/blob/main/Results/architecture.png)
@@ -49,3 +49,13 @@ Colab link: https://colab.research.google.com/drive/1933n5ZR5EPRYC4kyUX1cXXUpVtx
 ### Result Graphs:
 ![result1](https://github.com/codex-exe/PPO-sleep-signature/blob/main/Results/User12%2C%20reward%20space.png)
 ![result2](https://github.com/codex-exe/PPO-sleep-signature/blob/main/Results/user12_optimal.png)
+
+### Results Obtained:
+- Valuable insights into the factors that impact sleep quality.
+- A model that suggests sleep-related actions based on an individual's sleep
+data, resulting in higher reward and improved sleep quality.
+- Additionally, the model has been trained with respect to the effects, actions
+are having on an individual's sleep, making it a versatile approach to
+pinpoint those actions.
+
+
