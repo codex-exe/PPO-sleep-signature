@@ -41,7 +41,8 @@ data in order to learn the optimal sleep schedule.
 - Ritika Lakshminarayanan
 
 **Colab link:** https://colab.research.google.com/drive/1933n5ZR5EPRYC4kyUX1cXXUpVtxqxqFN?usp=sharing
-**Link to the original dataset: ** https://physionet.org/content/mmash/1.0.0/
+
+**Link to the original dataset:** https://physionet.org/content/mmash/1.0.0/
 
 ### Architecture:
 ![architecture](https://github.com/codex-exe/PPO-sleep-signature/blob/main/Results/architecture.png)
